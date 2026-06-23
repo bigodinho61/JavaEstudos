@@ -11,9 +11,11 @@ public class testeCarro {
         carro1.ano= 1969;
         carro1.modelo = "Sport";
 
-        carro2.name="Fusion";
+        carro2.name="Ford Ka";
         carro2.ano= 2000;
         carro2.modelo = "Comfort";
+
+        carro2 = carro1;
 
         System.out.println(carro1.name);
         System.out.println(carro1.modelo);
