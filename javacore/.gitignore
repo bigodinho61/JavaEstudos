@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/
+
+# Build
+out/
+
+# Arquivos de módulo
+*.iml
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+``
